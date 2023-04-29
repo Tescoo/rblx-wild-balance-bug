@@ -46,6 +46,14 @@ fetch("https://rblxwild.com/api/game/plinko/finalize", {
   "method": "POST"
 });
 ```
+# Funni images
+![image](https://user-images.githubusercontent.com/66729830/235312492-19d109c4-8a6a-42fe-84f6-900e5a84d16a.png)
+
+![image](https://user-images.githubusercontent.com/66729830/235312508-2c4c23af-3d4f-4df1-aa2c-b254694167dc.png)
+
+![image](https://user-images.githubusercontent.com/66729830/235312569-c55909b8-84ef-4748-bc59-2660d9bb9047.png)
+
+^ ignore excitement, it was quite late
 
 # Thanks
 Thanks,
