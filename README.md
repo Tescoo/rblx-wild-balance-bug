@@ -53,6 +53,8 @@ You would replace `authToken here` with your RBLXWild authToken
 
 And `Game ID with a high payout here` with... a Game ID with a high payout
 # Funni images
+![image](https://user-images.githubusercontent.com/66729830/235320788-ee282f33-316b-473a-a632-df8efa040eed.png)
+
 ![image](https://user-images.githubusercontent.com/66729830/235312492-19d109c4-8a6a-42fe-84f6-900e5a84d16a.png)
 
 ![image](https://user-images.githubusercontent.com/66729830/235312508-2c4c23af-3d4f-4df1-aa2c-b254694167dc.png)
