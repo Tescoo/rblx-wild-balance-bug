@@ -46,6 +46,12 @@ fetch("https://rblxwild.com/api/game/plinko/finalize", {
   "method": "POST"
 });
 ```
+
+**NOT FUNCTIONAL**
+
+You would replace `authToken here` with your RBLXWild authToken
+
+And `Game ID with a high payout here` with... a Game ID with a high payout
 # Funni images
 ![image](https://user-images.githubusercontent.com/66729830/235312492-19d109c4-8a6a-42fe-84f6-900e5a84d16a.png)
 
