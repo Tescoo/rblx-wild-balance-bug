@@ -59,9 +59,7 @@ And `Game ID with a high payout here` with... a Game ID with a high payout
 
 ![image](https://user-images.githubusercontent.com/66729830/235312508-2c4c23af-3d4f-4df1-aa2c-b254694167dc.png)
 
-^ ignore excitement, it was quite late
-
 # Thanks
 Thanks,
 
-Tesco#6560 / rambletrick
+Tesco#6969 / rambletrick
