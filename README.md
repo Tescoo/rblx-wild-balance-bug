@@ -20,6 +20,8 @@ For some spastic reason, your plinko game will be payed out with a request to th
 
 But the smart developers over at RBLXWild thought: "Ah, lets not add a limit to how many times the user can send this requests"
 
+But for real, what is the need for this endpoint? (found out, RBLXWild didn't want to leak your payout before the game finishes, so it sends that to show your balance actually go up)
+
 Basically meaning that you can infinitely send payout requests and just keep getting them
 
 # Example
